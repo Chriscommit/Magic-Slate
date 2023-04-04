@@ -133,6 +133,13 @@ main
     height: 2.5em;
     margin-bottom: 0.5em;
 }
+.toolbar button
+{
+    border:none;
+    box-shadow:0 0 5px grey;
+    background-color:white;
+    color:black;
+}
 .toolbar ul li label
 {
     /* structure */
